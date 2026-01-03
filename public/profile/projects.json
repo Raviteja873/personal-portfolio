@@ -1,0 +1,136 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/online book store.png",
+            "title": "online book store",
+            "bodyText": "-  Static Online Book Store website developed using HTML, CSS, and JavaScript\n- Responsive layout with book listings and category-based navigation\n- JavaScript used for dynamic content display and basic user interactions",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/bookstore"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://online-bookstore-demo.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/school.png",
+            "title": "Blue Wave School – Educational Website",
+            "bodyText": "- Designed and developed a responsive school website using **HTML**, **CSS**, and **JavaScript**.\n- Implemented multiple pages including Home, About, Academics, and Contact with clean UI design.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/bluewave-school"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://elegant-kulfi-16541c.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Responsive Design",
+                "Frontend Development",
+                "Static Website"
+            ]
+        },
+        {
+            "image" : "images/projects/vizag.png",
+            "title": "Vizag Tourism – Informational Web Page",
+            "bodyText": "- Developed a static informational website about **Visakhapatnam (Vizag)** using **HTML**, **CSS**, and **JavaScript** Showcased popular tourist places, culture, and attractions with clean layout and structured content.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/Vizag-10-places"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://splendorous-macaron-a5cb26.netlify.app/"
+                }
+                
+                
+            ],
+            "tags" : [
+                "Html",
+                "JavaScript",
+                "Responsive Design",
+                "Frontend Development"
+            ]
+        },
+        {
+            "image" : "images/projects/chatbot.png",
+            "title": "Secure Web-Based Conversational Agent",
+            "bodyText": "- Developed a secure educational chatbot using Flask and Groq Large Language Model (LLM) for real-time AI interaction.\n- Implemented secure user authentication with bcrypt, session management, and responsive UI using HTML and CSS.\n- Integrated SQLite database and REST APIs to handle user data and AI responses securely.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/ChatBot-Web-Application"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Groq LLM",
+                "REST API",
+                "Authentication",
+                "HTML",
+                "CSS",
+                "SQLite"
+            ]
+        },
+        {
+            "image" : "images/projects/booknest.png",
+            "title": "Book Nest – Textbook Access Web Application",
+            "bodyText":  "- Built a Flask-based web application for MCA students to access semester-wise textbooks.\n- Implemented secure login with role-based access and designed the frontend using HTML, CSS, and JavaScript.\n- Used SQLite/MySQL databases for secure storage and management of user and book data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/booknest"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "HTML",
+                "CSS",
+                "SQLite",
+                 "Web Application",
+                "Authentication"
+            ]
+        },
+        {
+            "image" : "images/projects/invoice.png",
+            "title": "Invoice Generator App",
+            "bodyText": "- A web application built using **React** to generate professional invoices.\n - Allows users to add item details, quantities, taxes, and discounts.\n - Supports real-time invoice preview and **PDF download** using jsPDF.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/invoice-generator"
+                },
+                 {
+                    "text": "Live",
+                    "href": "https://invoice-generator-react.netlify.app/"
+                }
+                
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Bootstrap",
+                 "Invoice Generator",
+                "jsPDF",
+                "Bootstrap",
+               "Frontend"
+            ]
+        }
+        
+    ]
+}

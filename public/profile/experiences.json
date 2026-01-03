@@ -1,0 +1,35 @@
+{
+  "experiences": [
+    {
+      "title": "Secure AI Chatbot Project",
+      "subtitle": "Academic Project",
+      "workType": "Project",
+      "workDescription": [
+        "Developed a secure web-based conversational agent using **Python** and **Flask**, integrated with a **Large Language Model** for real-time responses.",
+        "Implemented **bcrypt password hashing**, session management, REST APIs, and **SQLite** database integration for secure user authentication."
+        ],
+      "dateText": "2024 – 2025"
+    },
+    {
+      "title": "Book Nest Web Application",
+      "subtitle": "Academic Project",
+      "workType": "Project",
+      "workDescription": [
+        "Built a Flask-based textbook access platform for MCA students with **secure login** and structured backend design.",
+        "Designed clean frontend interfaces using **HTML, CSS, and JavaScript** with database integration."
+      ],
+      "dateText": "2024"
+    },
+    {
+      "title": "Achievements & Certifications",
+      "subtitle": "Academic & Personal",
+      "workType": "Achievements",
+      "workDescription": [
+        "Secured **2nd place** in a Logo Design Competition organized by the **Computer Society of India (CSI)**.",
+        "Earned **Python Essentials Certification** from **Cisco Networking Academy**.",
+        "Maintained a **450+ day continuous learning streak** on Duolingo, demonstrating consistency and discipline."
+      ],
+      "dateText": "2023 – Present"
+    }
+  ]
+}

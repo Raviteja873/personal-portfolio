@@ -1,0 +1,28 @@
+{
+  "education": [
+    {
+      "title": "2024 – 2026 (Pursuing)",
+      "cardTitle": "Master of Computer Applications (MCA)",
+      "cardSubtitle": "Gayathri Vidya Parishad College of Engineering, Visakhapatnam",
+      "cardDetailedText": "CGPA: 8.11 (Current)"
+    },
+    {
+      "title": "2021 – 2024",
+      "cardTitle": "B.Sc. Computer Science",
+      "cardSubtitle": "Prism Degree & P.G. College, Visakhapatnam",
+      "cardDetailedText": "CGPA: 7.34"
+    },
+    {
+      "title": "2019 – 2021",
+      "cardTitle": "Intermediate",
+      "cardSubtitle": "Narayana Junior College, Andhra Pradesh",
+      "cardDetailedText": "Percentage: 68.5%"
+    },
+    {
+      "title": "2018 – 2019",
+      "cardTitle": "Secondary School (SSC)",
+      "cardSubtitle": "Sri Venkateswara Vidya Peeth, Andhra Pradesh",
+      "cardDetailedText": "GPA: 9.0"
+    }
+  ]
+}
