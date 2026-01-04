@@ -117,11 +117,4 @@ This project is licensed under the MIT License.
 
 ---
 
-### If you want next:
-
-* **Shorter README (1-page only)**
-* **More recruiter-focused README**
-* **Add screenshots section**
-* **Add live demo badge**
-
-tell me what you want, I’ll customize it exactly.
+## portfolio live link : https://personal-portfolio-ten-gray-85.vercel.app/
