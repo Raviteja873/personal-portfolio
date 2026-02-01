@@ -94,6 +94,10 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/Raviteja873/booknest"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://booknest-mca-academic-companion.onrender.com/"
                 }
             ],
             "tags" : [
