@@ -132,12 +132,11 @@
                     "AWS",
                     "Amazon Route 53",
                     "EC2",
-                    "Application Load Balancer",
+                    "ALB",
                     "VPC",
                     "Nginx",
                     "Disaster Recovery",
                     "DNS Failover",
-                    "Health Checks",
                     "AWS Systems Manager"
                     ]
 
