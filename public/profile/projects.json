@@ -115,6 +115,24 @@
             ]
         },
         {
+        "image" : "images/projects/architecture-diagram.png",
+        "title": "AWS Cross-Region Route 53 Failover & Disaster Recovery",
+        "bodyText": "- Designed and implemented a multi-region AWS disaster recovery architecture using **Amazon Route 53**, **EC2**, **Application Load Balancer (ALB)**, **VPC**, and **Nginx**.\n- Configured Mumbai as the primary region and Hyderabad as the secondary region with health checks and DNS-based failover to improve application availability.\n- Tested primary-region failure, traffic redirection to the secondary region, and recovery of the primary environment using **AWS Systems Manager Session Manager**.",
+        "links": [
+            {
+                "text": "GitHub",
+                "href": "https://github.com/Raviteja873/aws-cross-region-route53-failover-dr"
+            },
+            {
+                "text": "Live",
+                "href": "http://ravitejaaws.dpdns.org"
+            }
+        ]
+    },
+
+
+        
+        {
             "image" : "images/projects/invoice.png",
             "title": "Invoice Generator App",
             "bodyText": "- A web application built using **React** to generate professional invoices.\n - Allows users to add item details, quantities, taxes, and discounts.\n - Supports real-time invoice preview and **PDF download** using jsPDF.",
