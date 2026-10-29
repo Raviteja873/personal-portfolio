@@ -3,7 +3,7 @@
         {
             "image": "images/projects/architecture-diagram.png",
             "title": "AWS Cross-Region Route 53 Failover & Disaster Recovery",
-            "bodyText": "- Built an AWS cross-region disaster recovery solution using **Route 53**, **EC2**, and **Application Load Balancer (ALB)**.\n- Configured health checks and DNS failover for high availability across regions.",
+            "bodyText": "- Built an AWS cross-region disaster recovery solution using **Route 53**, **EC2**, and **Application Load Balancer (ALB)**.",
             "links": [
                 {
                     "text": "GitHub",
