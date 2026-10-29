@@ -127,9 +127,22 @@
                 "text": "Live",
                 "href": "http://ravitejaaws.dpdns.org"
             }
-        ]
-    },
-    {
+        ],
+            "tags": [
+                    "AWS",
+                    "Amazon Route 53",
+                    "EC2",
+                    "Application Load Balancer",
+                    "VPC",
+                    "Nginx",
+                    "Disaster Recovery",
+                    "DNS Failover",
+                    "Health Checks",
+                    "AWS Systems Manager"
+                    ]
+
+            },
+            {
             "image" : "images/projects/invoice.png",
             "title": "Invoice Generator App",
             "bodyText": "- A web application built using **React** to generate professional invoices.\n - Allows users to add item details, quantities, taxes, and discounts.\n - Supports real-time invoice preview and **PDF download** using jsPDF.",
