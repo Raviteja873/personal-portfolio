@@ -1,26 +1,30 @@
-{
-    "projects" : [
-        {
-            "image" : "images/projects/online book store.png",
-            "title": "online book store",
-            "bodyText": "-  Static Online Book Store website developed using HTML, CSS, and JavaScript\n- Responsive layout with book listings and category-based navigation\n- JavaScript used for dynamic content display and basic user interactions",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Raviteja873/bookstore"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://online-bookstore-demo.netlify.app/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
+ {
+        "image" : "images/projects/architecture-diagram.png",
+        "title": "AWS Cross-Region Route 53 Failover & Disaster Recovery",
+        "bodyText": "- Built an AWS cross-region disaster recovery solution using **Route 53**, **EC2**, and **Application Load Balancer (ALB)**.\n- Configured health checks and DNS failover for high availability across regions.",
+        "links": [
+            {
+                "text": "GitHub",
+                "href": "https://github.com/Raviteja873/aws-cross-region-route53-failover-dr"
+            },
+            {
+                "text": "Live",
+                "href": "https://github.com/Raviteja873/aws-cross-region-route53-failover-dr"
+            }
+        ],
+            "tags": [
+                    "Amazon Route 53",
+                    "EC2",
+                    "ALB",
+                    "VPC",
+                    "Nginx",
+                    "Disaster Recovery",
+                    "DNS",
+                    "AWS Systems Manager"
+                    ]
+
+            },
+           {
             "image" : "images/projects/school.png",
             "title": "Blue Wave School – Educational Website",
             "bodyText": "- Designed and developed a responsive school website using **HTML**, **CSS**, and **JavaScript**.\n- Implemented multiple pages including Home, About, Academics, and Contact with clean UI design.",
@@ -114,33 +118,29 @@
                 "Authentication"
             ]
         },
+       {
+    "projects" : [
         {
-        "image" : "images/projects/architecture-diagram.png",
-        "title": "AWS Cross-Region Route 53 Failover & Disaster Recovery",
-        "bodyText": "- Built an AWS cross-region disaster recovery solution using **Route 53**, **EC2**, and **Application Load Balancer (ALB)**.\n- Configured health checks and DNS failover for high availability across regions.",
-        "links": [
-            {
-                "text": "GitHub",
-                "href": "https://github.com/Raviteja873/aws-cross-region-route53-failover-dr"
-            },
-            {
-                "text": "Live",
-                "href": "https://github.com/Raviteja873/aws-cross-region-route53-failover-dr"
-            }
-        ],
-            "tags": [
-                    "Amazon Route 53",
-                    "EC2",
-                    "ALB",
-                    "VPC",
-                    "Nginx",
-                    "Disaster Recovery",
-                    "DNS",
-                    "AWS Systems Manager"
-                    ]
-
-            },
-            {
+            "image" : "images/projects/online book store.png",
+            "title": "online book store",
+            "bodyText": "-  Static Online Book Store website developed using HTML, CSS, and JavaScript\n- Responsive layout with book listings and category-based navigation\n- JavaScript used for dynamic content display and basic user interactions",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raviteja873/bookstore"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://online-bookstore-demo.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+     {
             "image" : "images/projects/invoice.png",
             "title": "Invoice Generator App",
             "bodyText": "- A web application built using **React** to generate professional invoices.\n - Allows users to add item details, quantities, taxes, and discounts.\n - Supports real-time invoice preview and **PDF download** using jsPDF.",
