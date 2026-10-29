@@ -125,7 +125,7 @@
             },
             {
                 "text": "Live",
-                "href": "http://ravitejaaws.dpdns.org"
+                "href": "https://github.com/Raviteja873/aws-cross-region-route53-failover-dr"
             }
         ],
             "tags": [
