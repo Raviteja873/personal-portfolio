@@ -129,14 +129,13 @@
             }
         ],
             "tags": [
-                    "AWS",
                     "Amazon Route 53",
                     "EC2",
                     "ALB",
                     "VPC",
                     "Nginx",
                     "Disaster Recovery",
-                    "DNS Failover",
+                    "DNS",
                     "AWS Systems Manager"
                     ]
 
